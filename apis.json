@@ -1,0 +1,87 @@
+{
+    "name": "MediaNet",
+    "description": "MediaNet provides partners catalog, publishing admin, on-demand streaming, DMCA radio, downloads, rights management, reporting, and payments\u2014under one roof.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/435-medianet.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "music",
+        "shopping",
+        "streaming"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/medianet\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MediaNet",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/435-medianet.jpg",
+            "humanURL": "http:\/\/www.mndigital.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/medianet-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mndigital.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.mndigital.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/medianet"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/medianet"
+        },
+        {
+            "type": "Email",
+            "url": "careers@mndigital.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@mndigital.com"
+        },
+        {
+            "type": "Email",
+            "url": "claimsupport@mndigital.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@mndigital.com"
+        },
+        {
+            "type": "Email",
+            "url": "Notice.MNOpen@mndigital.com"
+        },
+        {
+            "type": "Email",
+            "url": "no-contact@mndigital.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@medianetdigital.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MNDigital"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/medianetmusic"
+        }
+    ]
+}
